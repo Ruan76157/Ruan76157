@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Ruan Lima Ramos
 
-🎓 Estudante do Ensino Médio Técnico em **Desenvolvimento de Sistemas**  
+🎓 Estudante do Ensino Médio e do curso técnico em **Desenvolvimento de Sistemas**
 💡 Apaixonado por tecnologia, programação e soluções criativas!  
 🚀 Atualmente estudando **Java**, **JavaScript** e **Desenvolvimento Web**  
 ☁️ Experiência com **AWS**, **Postman**, **Banco de Dados** e **APIs**  
