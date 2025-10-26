@@ -23,7 +23,7 @@
 
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 ---
 
@@ -31,8 +31,8 @@
 
 - 🔭 Estou desenvolvendo projetos práticos para aprender mais sobre **backend com Java** e **APIs REST**  
 - 🌱 Aprendendo **boas práticas de código**, **testes automatizados** e **deploy em nuvem**  
-- 💬 Gosto de compartilhar conhecimento e aprender com a comunidade  
-- 🎯 Objetivo: me tornar um **desenvolvedor full stack**  
+- 💬 Gosto De Sempre aprender Mais e busco ter um vasto conhecimento sobre minha area e outras areas 
+- 🎯 Objetivo: me tornar um **desenvolvedor Senior E Trabalhar nessa area que gosto tanto**  
 
 ---
 
