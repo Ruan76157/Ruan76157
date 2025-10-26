@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Ruan Lima Ramos
 
-🎓 Estudante do Ensino Médio e do curso técnico em **Desenvolvimento de Sistemas** 
+🎓 Estudante do Ensino Médio e do curso técnico em **Desenvolvimento de Sistemas**  
 💡 Apaixonado por tecnologia, programação e soluções criativas!  
 🚀 Atualmente estudando **Java**, **JavaScript** e **Desenvolvimento Web**  
 ☁️ Experiência com **AWS**, **Postman**, **Banco de Dados** e **APIs**  
@@ -31,8 +31,8 @@
 
 - 🔭 Estou desenvolvendo projetos práticos para aprender mais sobre **backend com Java** e **APIs REST**  
 - 🌱 Aprendendo **boas práticas de código**, **testes automatizados** e **deploy em nuvem**  
-- 💬 Gosto De Sempre aprender Mais e busco ter um vasto conhecimento sobre minha area e outras areas 
-- 🎯 Objetivo: me tornar um **desenvolvedor Senior E Trabalhar nessa area que gosto tanto**  
+- 💬 Gosto de sempre aprender mais e busco ter um vasto conhecimento sobre minha área e outras áreas  
+- 🎯 Objetivo: me tornar um **desenvolvedor sênior** e trabalhar nessa área que gosto tanto  
 
 ---
 
