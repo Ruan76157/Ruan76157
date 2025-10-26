@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou O Ruan Lima Ramos
+# 👋 Olá! Eu sou o Ruan Lima Ramos
 
 🎓 Estudante do Ensino Médio Técnico em **Desenvolvimento de Sistemas**  
 💡 Apaixonado por tecnologia, programação e soluções criativas!  
