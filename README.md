@@ -36,14 +36,6 @@
 
 ---
 
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Como me encontrar
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ruan.z777/)
